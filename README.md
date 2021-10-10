@@ -21,6 +21,7 @@
 <a href="https://www.instagram.com/rafarios20" target="_blank"><img heidht="180em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/rafaelrios20" target="_blank"><img heidht="180em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://open.spotify.com/user/22lp3ddoecr5i34sh4qud7jmi?si=d0742439329741a6" target="_blank"><img heidht="180em" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</div>
 
-  ![Snake animation] (https://github.com/rafarios20/rafarios20/blob/output/github-contribution-grid-snake.sgv)
+  ![Snake animation](https://github.com/rafarios20/rafarios20/blob/output/github-contribution-grid-snake.sgv)
+  
+</div>
