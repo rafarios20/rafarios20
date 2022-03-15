@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/rafarios20"></a>
-  <img heidht="180em" src="https://github-readme-stats.vercel.app/api?username=rafarios20&show_icons=true&theme=dark)(https://github.com/rafarios20/github-readme-stats">
-  <img heidht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarios20&show_icons=true&theme=dark)(https://github.com/rafarios20/github-readme-stats">
+  <img heidht="180em" src="https://github-readme-stats.vercel.app/api?username=rafarios20&show_icons=true)(https://github.com/rafarios20/github-readme-stats">
+  <img heidht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarios20&show_icons=true)(https://github.com/rafarios20/github-readme-stats">
 </div>
 <div style="displa inline: block"><br>
   <figure>
