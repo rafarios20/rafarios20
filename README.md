@@ -10,10 +10,10 @@
 </div>
 <div style="displa inline: block"><br>
   <figure>
-    <img align="center" alt="Rafa-Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" alt="Rafa-Postgresql" title="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="Rafa-Pandas" title="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    <img align="center" alt="Rafa-Django" title="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+    <img align="center" alt="Rafa-Python" title="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="Rafa-Postgresql" title="PostgreSQL" height="30" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="center" alt="Rafa-Pandas" title="Pandas" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img align="center" alt="Rafa-Django" title="Django" height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </figure>
 </div>
 
